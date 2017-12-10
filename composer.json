@@ -5,7 +5,7 @@
     "version": "3.0.3",
     "type": "library",
     "keywords": ["amazon", "product", "api"],
-    "homepage": "https://github.com/MarcL/AmazonProductAPI/",
+    "homepage": "https://github.com/mirahost/AmazonProductAPI/",
     "license": "MIT",
     "authors": [
         {
