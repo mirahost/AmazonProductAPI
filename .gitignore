@@ -4,3 +4,4 @@ composer.phar
 
 # Avoid commiting secret keys
 secretKeys.php
+.idea
