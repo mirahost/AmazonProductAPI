@@ -110,7 +110,7 @@ class AmazonAPI
 
 		$params = array(
 			'Operation' => 'ItemLookup',
-			'ResponseGroup' => 'ItemAttributes,Offers,Reviews,Images,EditorialReview,VariationSummary',
+			'ResponseGroup' => 'ItemAttributes,Offers,Reviews,Images,EditorialReview,VariationSummary,VariationImages',
 			'ReviewSort' => '-OverallRating',
 			'ItemId' => $asinList,
 			'MerchantId' => ($onlyFromAmazon == true) ? 'Amazon' : 'All'
