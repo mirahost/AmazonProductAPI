@@ -2,7 +2,7 @@
     "name": "mirahost/amazonproductapi",
     "description":
         "PHP library to perform product lookup and searches using the Amazon Product API.",
-    "version": "3.0.3",
+    "version": "3.0.4",
     "type": "library",
     "keywords": ["amazon", "product", "api"],
     "homepage": "https://github.com/mirahost/AmazonProductAPI/",
